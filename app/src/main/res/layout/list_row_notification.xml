@@ -5,8 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:background="#FFFFFF">
-/* h */
-
+/* hgfd */
     <ProgressBar
         android:id="@+id/list_row_notification_progressBar"
         style="?android:attr/progressBarStyle"
